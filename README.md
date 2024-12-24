@@ -31,7 +31,8 @@ The project follows the following structure:
 
 Code language: Python (python)\  
 neural-network-challenge-1/\  
-├─student_loans_with_deep_learning.ipynb
+├─student_loans_with_deep_learning.ipynb   
+├─student_loans.keras      
 ├─README.md   
 
 ## License  
